@@ -1,0 +1,9 @@
+Invalid callback data, data: {"username":"admin1","card_type":"Viettel","card_amount":"10000","serial":"20000235622911","pin":"20000235622911"}
+Invalid callback data, data: {"username":"admin1","card_type":"Viettel","card_amount":"10000","serial":"20000235622968","pin":"20000235622968"}
+Invalid callback data, data: {"username":"admin1","card_type":"Viettel","card_amount":"10000","serial":"20000235622268","pin":"20000235622268"}
+Invalid callback data, data: {"username":"admin1","card_type":"Viettel","card_amount":"10000","serial":"20000235622204","pin":"20000235622204"}
+Invalid callback data, data: {"username":"admin1","card_type":"Viettel","card_amount":"10000","serial":"20000235622201","pin":"20000235622201"}
+Invalid callback data, data: {"username":"admin1","card_type":"Viettel","card_amount":"10000","serial":"20000235622687","pin":"20000235622687"}
+Invalid callback data, data: {"username":"admin1","card_type":"Viettel","card_amount":"10000","serial":"12312222231322","pin":"12312222231322"}
+Invalid callback data, data: {"username":"admin1","card_type":"Viettel","card_amount":"10000","serial":"12312222231329","pin":"12312222231329"}
+Invalid callback data, data: {"username":"admin1","card_type":"Viettel","card_amount":"10000","serial":"22312222231329","pin":"22312222231329"}

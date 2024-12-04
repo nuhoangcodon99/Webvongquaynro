@@ -1,0 +1,593 @@
+.login_buttonLogin__TWPow {
+    color: #fff;
+    background-color: #ff5602;
+    width: 115px;
+    height: 40px;
+    font-size: 15px
+}
+
+.login_buttonLogin__TWPow:hover {
+    background-color: #b3afaf;
+    color: #974004
+}
+
+.login_modalLoginBody__as95P {
+    background-color: #fce3c6;
+    border-radius: 10px
+}
+
+.login_btnFormLogin__SL9hu {
+    text-align: center
+}
+
+.login_btnFormLoginItem__kXCMP {
+    border-radius: 5px;
+    margin: 0 10px
+}
+
+.home_page_body-bg__Z25vt {
+    background: #b3afaf url(../../../../chiemtaimobile.vn/images/companies/1/%e1%ba%a2nh%20Blog/hinh-nen-dragon-ball/hinh-nen-phat-cho-may-tinh-416cb.jpg?1671156185671);
+    background-size: cover;
+    background-attachment: fixed
+}
+
+.home_page_logoBanner__BdD1O {
+    margin: 0 auto !important
+}
+
+.home_page_buttonMenu__62Yt6 {
+    background-color: #924c31;
+    color: #fff;
+    height: 23px
+}
+
+.home_page_buttonMenu2__wYqsO {
+    background-color: #924c31;
+    color: #fff;
+    height: 31px;
+    border: 4px solid #804000
+}
+
+.home_page_buttonMenu__62Yt6:hover {
+    text-decoration: underline
+}
+
+.home_page_buttonMenu2__wYqsO>a,
+.home_page_buttonMenu__62Yt6>a {
+    color: #fff
+}
+
+.home_page_buttonDownload__5Kpbp {
+    margin-right: 5px
+}
+
+.home_page_buttonDownload__5Kpbp a {
+    color: #ad4105
+}
+
+.home_page_buttonLogin__o9Rwe {
+    color: #fff;
+    background-color: #ff5602;
+    margin: 0 2px
+}
+
+.home_page_buttonLogin__o9Rwe:hover {
+    background-color: #4caf50;
+    color: #fff
+}
+
+.home_page_homeTitle__5DtSI {
+    margin-top: 15px;
+    padding-top: 5px;
+    border-top: 3px solid #ff5602
+}
+
+.home_page_homeContent__7Iqrb {
+    border-top: 1px solid
+}
+
+.home_page_btnInfoAccount__RulrD {
+    min-width: 100px;
+    color: #fff;
+    background-color: #ff5602;
+    margin: 0 2px
+}
+
+.home_page_btnInfoAccount__RulrD:hover {
+    background-color: #4caf50;
+    color: #fff
+}
+
+.home_page_rowBodyInfo__Xe0JL {
+    margin: 5px 0
+}
+
+.home_page_avatar__Dnhlr {
+    width: 100%;
+    margin-top: 15px
+}
+
+.home_page_bodyTitleList__UdhN_ {
+    font-size: 1.2rem;
+    font-weight: 600;
+    border-bottom: 1px solid #80808075;
+    margin-top: 10px;
+    /* margin-left: 20px */
+}
+
+.home_page_listItemAvatar__cXjbm {
+    width: 60px;
+    margin-right: 10px;
+    margin-left: 10px
+}
+
+.home_page_listItemTitle__YB3V5 a {
+    font-size: 1rem;
+    color: #0a58ca
+}
+
+.home_page_listItemText__PDQdp span {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #dc3545
+}
+
+.home_page_listItemText__PDQdp i {
+    font-size: .8rem
+}
+
+.home_page_listItem__GD_iE {
+    border-radius: 10px;
+    background-color: #83677b !important;
+    border-color: #83677b !important;
+    margin: 15px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 2px 2px #83677b
+}
+
+.home_page_listItemPlus__udh5w {
+    display: flex
+}
+
+.home_page_listItemText__PDQdp {
+    display: grid
+}
+
+.home_page_textDetail__BTiTp {
+    padding: 10px
+}
+
+.home_page_bankImgItem__bgni9 {
+    height: 80px;
+    width: 80px
+}
+
+@media screen and (max-width:575.9px) {
+    .home_page_bankImgItem__bgni9 {
+        height: 50px;
+        width: 50px
+    }
+}
+
+@media screen and (max-width:375px) {
+    .home_page_bankImgItem__bgni9 {
+        height: 40px;
+        width: 40px
+    }
+}
+
+.login_buttonLogin__TWPow {
+    color: #fff;
+    background-color: #ff5602;
+    width: 115px;
+    height: 40px;
+    font-size: 15px
+}
+
+.login_buttonLogin__TWPow:hover {
+    background-color: #b3afaf;
+    color: #974004
+}
+
+.login_modalLoginBody__as95P {
+    background-color: #fce3c6;
+    border-radius: 10px
+}
+
+.login_btnFormLogin__SL9hu {
+    text-align: center
+}
+
+.login_btnFormLoginItem__kXCMP {
+    border-radius: 5px;
+    margin: 0 10px
+}
+
+.download_textAlign__D5hSo {
+    text-align: center;
+    margin-top: 10px;
+    min-height: 60vh;
+    padding: 0 10px
+}
+
+.download_cardBody__sOHOr {
+    width: 300px;
+    height: 217px;
+    border-radius: 15px;
+    background-color: #adf;
+    border: 2px solid #b3afaf
+}
+
+.download_cardBody__sOHOr h3 {
+    font-size: 1.2rem
+}
+
+.download_rowDownload__uLMPw {
+    border-bottom: 1px dashed green
+}
+
+.login_buttonLogin__TWPow {
+    color: #fff;
+    background-color: #ff5602;
+    width: 115px;
+    height: 40px;
+    font-size: 15px
+}
+
+.login_buttonLogin__TWPow:hover {
+    background-color: #b3afaf;
+    color: #974004
+}
+
+.login_modalLoginBody__as95P {
+    background-color: #fce3c6;
+    border-radius: 10px
+}
+
+.login_btnFormLogin__SL9hu {
+    text-align: center
+}
+
+.login_btnFormLoginItem__kXCMP {
+    border-radius: 5px;
+    margin: 0 10px
+}
+
+.posts_avatar__kFWsK {
+    border-color: #000;
+    width: 50px;
+    height: 50px;
+    margin: 0;
+    padding: 0
+}
+
+.posts_contentPost___PyGu {
+    float: left;
+    width: 100%;
+    color: #000;
+    font-size: 12px;
+    padding-left: 5px;
+    padding-right: 5px
+}
+
+.posts_boxTime__bFU28 {
+    float: left;
+    width: 100%;
+    font-weight: 700;
+    color: #013481;
+    font-size: 8pt;
+    border-bottom: 1px dashed;
+    margin-bottom: 5px
+}
+
+.posts_boxContent__XjPnA {
+    padding: 5px 4px;
+    background-color: #fdf8da;
+    border-radius: 10px;
+    color: #333;
+    box-shadow: 0 0 4px rgba(0, 0, 0, .15)
+}
+
+.posts_point__Ku4g5 {
+    font-weight: 400;
+    color: #000;
+    font-size: 9px;
+    float: right
+}
+
+.posts_btnCreatePost__5Ee_5 {
+    color: #fff;
+    width: 115px;
+    height: 35px;
+    font-size: 15px;
+    margin-left: 15px
+}
+
+.posts_commentEditor__4dPgi {
+    margin-top: 20px;
+    background-color: #ffb473
+}
+
+.posts_pagination__eFB_2 {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    margin-bottom: 10px
+}
+
+.posts_pagination__eFB_2 li {
+    background-color: #fff !important;
+    color: #561d00
+}
+
+.posts_pagination__eFB_2 li:hover a {
+    background-color: #561d00;
+    color: #fff
+}
+
+.posts_pagination__eFB_2 li {
+    margin: 2px !important
+}
+
+.posts_ant-pagination-item-active__08_sa {
+    background-color: #561d00 !important
+}
+
+.posts_title__P1NsS {
+    font-size: 1.2rem;
+    color: blue;
+    font-weight: 500
+}
+
+.posts_time__PFYQE {
+    font-weight: 500;
+    color: #000;
+    font-size: .8rem
+}
+
+
+.login_buttonLogin__TWPow {
+    color: #fff;
+    background-color: #ff5602;
+    width: 115px;
+    height: 40px;
+    font-size: 15px
+}
+
+.login_buttonLogin__TWPow:hover {
+    background-color: #b3afaf;
+    color: #974004
+}
+
+.login_modalLoginBody__as95P {
+    background-color: #fce3c6;
+    border-radius: 10px
+}
+
+.login_btnFormLogin__SL9hu {
+    text-align: center
+}
+
+.login_btnFormLoginItem__kXCMP {
+    border-radius: 5px;
+    margin: 0 10px
+}
+
+.money_warningText__SC_k_ {
+    text-align: center;
+    color: red;
+    margin-bottom: 1rem
+}
+
+.money_formMenuBtn__vqkTi {
+    text-align: center;
+    margin-left: 1rem
+}
+
+.money_exchangeTable__kupiS,.money_exchangeTable__kupiS th tr td {
+    border: 1px solid
+}
+
+.money_confirmBtn__IeO0U {
+    margin-left: 15px;
+    background-color: #6bc04a;
+    color: #fff
+}
+
+.money_cancelBtn__UWbW2 {
+    margin-left: 15px
+}
+
+.money_cancelBtn__UWbW2:hover {
+    color: blue;
+    background-color: #fff
+}
+
+.money_textNotable__Ddupe {
+    color: red;
+    font-size: 1.1rem
+}
+
+.money_body__Gugo5 {
+    margin-top: 10px;
+    padding: 0 15px
+}
+
+.money_bodyTable__WFHdS {
+    width: 100%;
+    overflow-x: auto;
+    min-height: 30vh
+}
+
+.money_bodyTable__WFHdS table td {
+    font-size: 12px;
+    background: #ff9912;
+    font-weight: 500
+}
+
+.money_bodyTable__WFHdS table>thead>tr>th {
+    background: #f36001;
+}
+
+.money_textNote___4yHb {
+    padding: 5px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 10px
+}
+
+.money_divCenter__OwY7M {
+    text-align: center
+}
+
+.home_page_body-bg__Z25vt {
+    background: #b3afaf url(../../../images/companies/1/Ảnh%20Blog/hinh-nen-dragon-ball/hinh-nen-phat-cho-may-tinh-4.jpg);
+    background-size: cover;
+    background-attachment: fixed
+}
+
+.home_page_logoBanner__BdD1O {
+    margin: 0 auto!important
+}
+
+.home_page_buttonMenu__62Yt6 {
+    background-color: #924c31;
+    color: #fff;
+    height: 23px
+}
+
+.home_page_buttonMenu2__wYqsO {
+    background-color: #924c31;
+    color: #fff;
+    height: 31px;
+    border: 4px solid #804000
+}
+
+.home_page_buttonMenu__62Yt6:hover {
+    text-decoration: underline
+}
+
+.home_page_buttonMenu2__wYqsO>a,.home_page_buttonMenu__62Yt6>a {
+    color: #fff
+}
+
+.home_page_buttonDownload__5Kpbp {
+    margin-right: 5px
+}
+
+.home_page_buttonDownload__5Kpbp a {
+    color: #ad4105
+}
+
+.home_page_buttonLogin__o9Rwe {
+    color: #fff;
+    background-color: #ff5602;
+    margin: 0 2px
+}
+
+.home_page_buttonLogin__o9Rwe:hover {
+    background-color: #4caf50;
+    color: #fff
+}
+
+.home_page_homeTitle__5DtSI {
+    margin-top: 15px;
+    padding-top: 5px;
+    border-top: 3px solid #ff5602
+}
+
+.home_page_homeContent__7Iqrb {
+    border-top: 1px solid
+}
+
+.home_page_btnInfoAccount__RulrD {
+    min-width: 100px;
+    color: #fff;
+    background-color: #ff5602;
+    margin: 0 2px
+}
+
+.home_page_btnInfoAccount__RulrD:hover {
+    background-color: #4caf50;
+    color: #fff
+}
+
+.home_page_rowBodyInfo__Xe0JL {
+    margin: 5px 0
+}
+
+.home_page_avatar__Dnhlr {
+    width: 100%;
+    margin-top: 15px
+}
+
+.home_page_bodyTitleList__UdhN_ {
+    font-size: 1.2rem;
+    font-weight: 600;
+    border-bottom: 1px solid #80808075;
+    margin-top: 10px;
+    margin-left: 20px
+}
+
+.home_page_listItemAvatar__cXjbm {
+    width: 60px;
+    margin-right: 10px;
+    margin-left: 10px
+}
+
+.home_page_listItemTitle__YB3V5 a {
+    font-size: 1rem;
+    color: #0a58ca
+}
+
+.home_page_listItemText__PDQdp span {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #dc3545
+}
+
+.home_page_listItemText__PDQdp i {
+    font-size: .8rem
+}
+
+/* .home_page_listItem__GD_iE {
+    border-radius: 10px;
+    background-color: #83677b!important;
+    border-color: #ffdbb3!important;
+    margin: 15px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 2px 2px #ffb473
+} */
+
+.home_page_listItemPlus__udh5w {
+    display: flex
+}
+
+.home_page_listItemText__PDQdp {
+    display: grid
+}
+
+.home_page_textDetail__BTiTp {
+    padding: 10px
+}
+
+.home_page_bankImgItem__bgni9 {
+    height: 80px;
+    width: 80px
+}
+
+@media screen and (max-width: 575.9px) {
+    .home_page_bankImgItem__bgni9 {
+        height:50px;
+        width: 50px
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .home_page_bankImgItem__bgni9 {
+        height:40px;
+        width: 40px
+    }
+}
